@@ -1,0 +1,22 @@
+# Nix / direnv
+.envrc
+.direnv/
+flake.nix
+flake.lock
+
+# VS Code dev stuff
+.vscode/
+*.code-workspace
+
+# Node
+node_modules/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+
+# OS
+.DS_Store
+
+# Git
+.git/
+.gitignore

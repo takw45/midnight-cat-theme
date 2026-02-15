@@ -1,0 +1,33 @@
+{
+  "name": "midnight-cat",
+  "license": "MIT",
+  "displayName": "Midnight Cat",
+  "description": "Dark gray Catppuccin-inspired theme with blue accent",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/takw45/midnight-cat-theme"
+  },
+  "homepage": "https://github.com/takw45/midnight-cat-theme",
+  "bugs": {
+    "url": "https://github.com/takw45/midnight-cat-theme/issues"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Cat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-cat-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.7.1"
+  }
+}
