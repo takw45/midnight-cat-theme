@@ -263,7 +263,7 @@
     },
     {
       "scope": ["storage.type.cpp", "storage.type.c", "support.type.primitive"],
-      "settings": { "foreground": "#94e2d5" }
+      "settings": { "foreground": "#f5a97f" }
     },
 
     {
@@ -320,11 +320,11 @@
     "parameter": "#cdd3df",
     "property": "#cdd3df",
 
-    "type": "#94e2d5",
-    "class": "#94e2d5",
-    "struct": "#94e2d5",
-    "interface": "#94e2d5",
-    "enum": "#94e2d5",
+    "type": "#f5a97f",
+    "class": "#f5a97f",
+    "struct": "#f5a97f",
+    "interface": "#f5a97f",
+    "enum": "#f5a97f",
 
     "function": "#89b4fa",
     "method": "#89b4fa",
